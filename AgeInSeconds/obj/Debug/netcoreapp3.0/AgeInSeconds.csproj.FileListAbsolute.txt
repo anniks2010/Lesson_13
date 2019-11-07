@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.AssemblyInfo.cs
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.exe
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.deps.json
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.runtimeconfig.json
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.runtimeconfig.dev.json
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.dll
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.pdb
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.dll
+C:\Users\opilane\projects\Lesson_12\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.pdb

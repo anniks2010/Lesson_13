@@ -1,0 +1,10 @@
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\bin\Debug\netcoreapp3.0\ThrowSecond.exe
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\bin\Debug\netcoreapp3.0\ThrowSecond.deps.json
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\bin\Debug\netcoreapp3.0\ThrowSecond.runtimeconfig.json
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\bin\Debug\netcoreapp3.0\ThrowSecond.runtimeconfig.dev.json
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\bin\Debug\netcoreapp3.0\ThrowSecond.dll
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\bin\Debug\netcoreapp3.0\ThrowSecond.pdb
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\obj\Debug\netcoreapp3.0\ThrowSecond.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\obj\Debug\netcoreapp3.0\ThrowSecond.AssemblyInfo.cs
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\obj\Debug\netcoreapp3.0\ThrowSecond.dll
+C:\Users\opilane\projects\Lesson_12\ThrowSecond\obj\Debug\netcoreapp3.0\ThrowSecond.pdb

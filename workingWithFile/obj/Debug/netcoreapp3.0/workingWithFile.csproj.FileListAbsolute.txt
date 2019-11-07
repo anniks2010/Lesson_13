@@ -1,0 +1,10 @@
+C:\Users\opilane\projects\Lesson_12\workingWithFile\bin\Debug\netcoreapp3.0\workingWithFile.exe
+C:\Users\opilane\projects\Lesson_12\workingWithFile\bin\Debug\netcoreapp3.0\workingWithFile.deps.json
+C:\Users\opilane\projects\Lesson_12\workingWithFile\bin\Debug\netcoreapp3.0\workingWithFile.runtimeconfig.json
+C:\Users\opilane\projects\Lesson_12\workingWithFile\bin\Debug\netcoreapp3.0\workingWithFile.runtimeconfig.dev.json
+C:\Users\opilane\projects\Lesson_12\workingWithFile\bin\Debug\netcoreapp3.0\workingWithFile.dll
+C:\Users\opilane\projects\Lesson_12\workingWithFile\bin\Debug\netcoreapp3.0\workingWithFile.pdb
+C:\Users\opilane\projects\Lesson_12\workingWithFile\obj\Debug\netcoreapp3.0\workingWithFile.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\Lesson_12\workingWithFile\obj\Debug\netcoreapp3.0\workingWithFile.AssemblyInfo.cs
+C:\Users\opilane\projects\Lesson_12\workingWithFile\obj\Debug\netcoreapp3.0\workingWithFile.dll
+C:\Users\opilane\projects\Lesson_12\workingWithFile\obj\Debug\netcoreapp3.0\workingWithFile.pdb

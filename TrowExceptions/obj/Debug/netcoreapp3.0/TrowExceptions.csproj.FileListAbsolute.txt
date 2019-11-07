@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.exe
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.deps.json
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.runtimeconfig.json
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.runtimeconfig.dev.json
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.dll
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.pdb
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.AssemblyInfo.cs
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.dll
+C:\Users\opilane\projects\Lesson_12\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.pdb

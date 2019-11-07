@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ThrowSecond/1.0.0": {
+        "runtime": {
+          "ThrowSecond.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThrowSecond/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
